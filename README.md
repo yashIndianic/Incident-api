@@ -23,6 +23,9 @@ Now your project is ready.
 ### POSTMAN COLLECTION ###
 * https://www.getpostman.com/collections/78c6202ea8d7488d5438
 
+### Unit testing of the APIs Command ###
+* ./vendor/bin/phpunit --filter IncidentTest
+
 ### Who do I talk to? ###
 
 * **Developer Name:** IndiaNIC
